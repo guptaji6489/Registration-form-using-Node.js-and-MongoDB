@@ -1,6 +1,6 @@
 # Registration-form-using-Node.js-and-MongoDB
 # To run this project first install node.js and mongoDb 
-# database name is college and collection name is students
-# then open cmd and go to this project location 
-# then write ( node insert.js )
-# then open your browser and write ( localhost:3000 ) 
+# make database name as college and collection name as students.
+# then open cmd and go to that project location . 
+# then write in cmd ( node insert.js )
+# then open your any browser and write ( localhost:3000 ) 
